@@ -27,3 +27,4 @@ print (reduce(lambda x, y: x + y, foo))
 # 顺便说一下 sorted
 print sorted(['bob', 'about', 'Zoo', 'Credit'], key=str.lower, reverse=True)
 ['Zoo', 'Credit', 'bob', 'about']
+
