@@ -11,6 +11,7 @@ def fib(max):
         yield b
         a, b = b, a + b
         n = n + 1
+    return
 
 
 f = fib(10)
@@ -35,3 +36,21 @@ while 1:
 
 def __test():
     print 'test'
+
+
+def gen():
+    value=0
+    while True:
+        receive=yield value
+        if receive=='e':
+            break
+        value = 'got: %s' % receive
+ 
+g=gen()
+print(g.send(None))     
+print(g.send('aaa'))
+print(g.send(3))
+try:
+    print(g.send('e'))
+except StopIteration as e:
+    print 'error'
