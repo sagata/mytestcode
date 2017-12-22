@@ -22,3 +22,15 @@ def produce(c):
 c = consumer()
 produce(c)
 
+
+
+
+def receiver():
+    print 'ready to receive'
+    while True:
+        n = (yield)
+        print 'receive ' + n 
+
+r = receiver()
+r.next()   # 这样也可以 r.send(None)
+r.send('1')
