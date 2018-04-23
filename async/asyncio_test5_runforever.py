@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #coding=utf8
 import asyncio
- 
+import functools
 async def do_some_work(loop, x):
     print('Waiting ' + str(x))
     await asyncio.sleep(x)

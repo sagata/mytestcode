@@ -1,0 +1,85 @@
+Fri, 15 Jul 2016 15:15:03 loggingttest.py[line:10] DEBUG test
+Fri, 15 Jul 2016 15:15:03 loggingttest.py[line:11] INFO This is info message
+Fri, 15 Jul 2016 15:15:03 loggingttest.py[line:12] WARNING This is warning message
+Fri, 15 Jul 2016 15:15:03 loggingttest.py[line:13] WARNING This is warning message
+Fri, 15 Jul 2016 15:15:03 loggingttest.py[line:47] WARNING This is warning message
+Fri, 15 Jul 2016 15:15:03 loggingttest.py[line:48] WARNING This is warning message
+Fri, 15 Jul 2016 15:16:49 loggingttest.py[line:11] DEBUG test
+Fri, 15 Jul 2016 15:16:49 loggingttest.py[line:12] INFO This is info message
+Fri, 15 Jul 2016 15:16:49 loggingttest.py[line:13] WARNING This is warning message
+Fri, 15 Jul 2016 15:16:49 loggingttest.py[line:14] WARNING This is warning message
+Fri, 15 Jul 2016 15:16:49 loggingttest.py[line:48] WARNING This is warning message
+Fri, 15 Jul 2016 15:16:49 loggingttest.py[line:49] WARNING This is warning message
+Fri, 15 Jul 2016 15:16:49 loggingttest.py[line:11] DEBUG test
+Fri, 15 Jul 2016 15:16:49 loggingttest.py[line:12] INFO This is info message
+Fri, 15 Jul 2016 15:16:49 loggingttest.py[line:13] WARNING This is warning message
+Fri, 15 Jul 2016 15:16:49 loggingttest.py[line:14] WARNING This is warning message
+Fri, 15 Jul 2016 15:16:49 loggingttest.py[line:48] WARNING This is warning message
+Fri, 15 Jul 2016 15:16:49 loggingttest.py[line:49] WARNING This is warning message
+Fri, 15 Jul 2016 15:16:49 loggingttest.py[line:11] DEBUG test
+Fri, 15 Jul 2016 15:16:49 loggingttest.py[line:12] INFO This is info message
+Fri, 15 Jul 2016 15:16:49 loggingttest.py[line:13] WARNING This is warning message
+Fri, 15 Jul 2016 15:16:49 loggingttest.py[line:14] WARNING This is warning message
+Fri, 15 Jul 2016 15:16:49 loggingttest.py[line:48] WARNING This is warning message
+Fri, 15 Jul 2016 15:16:49 loggingttest.py[line:49] WARNING This is warning message
+Fri, 15 Jul 2016 15:16:50 loggingttest.py[line:11] DEBUG test
+Fri, 15 Jul 2016 15:16:50 loggingttest.py[line:12] INFO This is info message
+Fri, 15 Jul 2016 15:16:50 loggingttest.py[line:13] WARNING This is warning message
+Fri, 15 Jul 2016 15:16:50 loggingttest.py[line:14] WARNING This is warning message
+Fri, 15 Jul 2016 15:16:50 loggingttest.py[line:48] WARNING This is warning message
+Fri, 15 Jul 2016 15:16:50 loggingttest.py[line:49] WARNING This is warning message
+Fri, 15 Jul 2016 15:16:51 loggingttest.py[line:11] DEBUG test
+Fri, 15 Jul 2016 15:16:51 loggingttest.py[line:12] INFO This is info message
+Fri, 15 Jul 2016 15:16:51 loggingttest.py[line:13] WARNING This is warning message
+Fri, 15 Jul 2016 15:16:51 loggingttest.py[line:14] WARNING This is warning message
+Fri, 15 Jul 2016 15:16:51 loggingttest.py[line:48] WARNING This is warning message
+Fri, 15 Jul 2016 15:16:51 loggingttest.py[line:49] WARNING This is warning message
+Fri, 15 Jul 2016 15:18:40 loggingttest.py[line:11] DEBUG test
+Fri, 15 Jul 2016 15:18:40 loggingttest.py[line:12] INFO This is info message
+Fri, 15 Jul 2016 15:18:40 loggingttest.py[line:13] WARNING This is warning message
+Fri, 15 Jul 2016 15:18:40 loggingttest.py[line:14] WARNING This is warning message
+Fri, 15 Jul 2016 15:18:40 loggingttest.py[line:15] ERROR This is warning message
+Fri, 15 Jul 2016 15:18:40 loggingttest.py[line:49] WARNING This is warning message
+Fri, 15 Jul 2016 15:18:40 loggingttest.py[line:50] WARNING This is warning message
+Mon, 06 Feb 2017 17:47:35 loggingttest.py[line:11] DEBUG test
+Mon, 06 Feb 2017 17:47:35 loggingttest.py[line:12] INFO This is info message
+Mon, 06 Feb 2017 17:47:35 loggingttest.py[line:13] WARNING This is warning message
+Mon, 06 Feb 2017 17:47:35 loggingttest.py[line:14] WARNING This is warning message
+Mon, 06 Feb 2017 17:47:35 loggingttest.py[line:15] ERROR This is warning message
+Mon, 06 Feb 2017 17:47:35 loggingttest.py[line:49] WARNING This is warning message
+Mon, 06 Feb 2017 17:47:35 loggingttest.py[line:50] WARNING This is warning message
+Thu, 16 Mar 2017 20:17:52 loggingttest.py[line:11] DEBUG test
+Thu, 16 Mar 2017 20:17:52 loggingttest.py[line:12] INFO This is info message
+Thu, 16 Mar 2017 20:17:52 loggingttest.py[line:13] WARNING This is warning message
+Thu, 16 Mar 2017 20:17:52 loggingttest.py[line:14] WARNING This is warning message
+Thu, 16 Mar 2017 20:17:52 loggingttest.py[line:15] ERROR This is warning message
+Thu, 16 Mar 2017 20:17:52 loggingttest.py[line:49] WARNING This is warning message
+Thu, 16 Mar 2017 20:17:52 loggingttest.py[line:50] WARNING This is warning message
+Thu, 16 Mar 2017 20:17:58 loggingttest.py[line:11] DEBUG test
+Thu, 16 Mar 2017 20:17:58 loggingttest.py[line:12] INFO This is info message
+Thu, 16 Mar 2017 20:17:58 loggingttest.py[line:13] WARNING This is warning message
+Thu, 16 Mar 2017 20:17:58 loggingttest.py[line:14] WARNING This is warning message
+Thu, 16 Mar 2017 20:17:58 loggingttest.py[line:15] ERROR This is warning message
+Thu, 16 Mar 2017 20:17:58 loggingttest.py[line:49] WARNING This is warning message
+Thu, 16 Mar 2017 20:17:58 loggingttest.py[line:50] WARNING This is warning message
+Thu, 16 Mar 2017 20:18:05 loggingttest.py[line:11] DEBUG test
+Thu, 16 Mar 2017 20:18:05 loggingttest.py[line:12] INFO This is info message
+Thu, 16 Mar 2017 20:18:05 loggingttest.py[line:13] WARNING This is warning message
+Thu, 16 Mar 2017 20:18:05 loggingttest.py[line:14] WARNING This is warning message
+Thu, 16 Mar 2017 20:18:05 loggingttest.py[line:15] ERROR This is warning message
+Thu, 16 Mar 2017 20:18:05 loggingttest.py[line:49] WARNING This is warning message
+Thu, 16 Mar 2017 20:18:05 loggingttest.py[line:50] WARNING This is warning message
+Thu, 16 Mar 2017 20:18:12 loggingttest.py[line:11] DEBUG test
+Thu, 16 Mar 2017 20:18:12 loggingttest.py[line:12] INFO This is info message
+Thu, 16 Mar 2017 20:18:12 loggingttest.py[line:13] WARNING This is warning message
+Thu, 16 Mar 2017 20:18:12 loggingttest.py[line:14] WARNING This is warning message
+Thu, 16 Mar 2017 20:18:12 loggingttest.py[line:15] ERROR This is warning message
+Thu, 16 Mar 2017 20:18:12 loggingttest.py[line:49] WARNING This is warning message
+Thu, 16 Mar 2017 20:18:12 loggingttest.py[line:50] WARNING This is warning message
+Thu, 16 Mar 2017 20:18:20 loggingttest.py[line:11] DEBUG test
+Thu, 16 Mar 2017 20:18:20 loggingttest.py[line:12] INFO This is info message
+Thu, 16 Mar 2017 20:18:20 loggingttest.py[line:13] WARNING This is warning message
+Thu, 16 Mar 2017 20:18:20 loggingttest.py[line:14] WARNING This is warning message
+Thu, 16 Mar 2017 20:18:20 loggingttest.py[line:15] ERROR This is warning message
+Thu, 16 Mar 2017 20:18:20 loggingttest.py[line:49] WARNING This is warning message
+Thu, 16 Mar 2017 20:18:20 loggingttest.py[line:50] WARNING This is warning message

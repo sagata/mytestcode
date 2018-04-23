@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<regtask>
+		<rt_taskid>10424001</rt_taskid>
+		<rt_name>国庆活动</rt_name>
+		<rt_cname1>国庆活动</rt_cname1>
+		<rt_cname2>准备华诞庆典</rt_cname2>
+		<rt_type>1</rt_type>
+		<rt_hint>前往#R$Z（$X，$Y）#B拜访#R$N#B，一道喜迎国庆佳节。当前第$R环，剩余时间$M分钟。</rt_hint>
+		<rt_desc/>
+		<rt_reward/>
+		<rt_ltime>2400</rt_ltime>
+		<rt_etime>1509379200</rt_etime>
+		<rt_savetype>2</rt_savetype>
+		<rt_consistence>2</rt_consistence>
+		<rt_follow>1</rt_follow>
+		<rt_task_tag>1</rt_task_tag>
+		<rt_new_rate>1</rt_new_rate>
+		<rt_delnpc>0</rt_delnpc>
+	</regtask>
+	<taskproc>
+		<tp_msg>P N(3055) M(九天星官)\n盛世华诞，普天同庆。时值国庆佳节，三界上下都在为华诞盛典做准备，据说传说中的东方巨龙也在龙脉所在附近现身。刚好#R$N#W需要一些帮助，少侠不妨前去看看。
+:129</tp_msg>
+		<tp_afmsg/>
+		<tp_sizeerr>P N(3055) M(九天星官)\n势单力薄，再找些朋友一起完成任务吧！（领取条件：玩家等级≥30级，队伍人数≥3人）
+:129</tp_sizeerr>
+		<tp_gradeerr>P N(3055) M(九天星官)\n队伍中#Y$PC#W还太年轻哦！（领取条件：玩家等级≥30级，队伍人数≥3人）
+:129</tp_gradeerr>
+		<tp_zhuanzhierr/>
+		<tp_teamsize>3</tp_teamsize>
+		<tp_grade>30</tp_grade>
+		<tp_isteam>1</tp_isteam>
+		<tp_ring>20220</tp_ring>
+		<tp_escape_clear>1</tp_escape_clear>
+		<tp_not_add_ring>1</tp_not_add_ring>
+		<tp_zhuanzhi>0</tp_zhuanzhi>
+		<tp_expr1/>
+		<tp_expr2/>
+		<tp_expr3/>
+		<tp_expr4/>
+		<tp_expr5/>
+		<tp_start_newnpc/>
+		<tp_start_delnpc/>
+		<tp_end_newnpc/>
+		<tp_end_delnpc/>
+		<tp_obj>huodong/nationalday17/ring.c</tp_obj>
+		<tp_random_target>0</tp_random_target>
+		<tp_reward/>
+	</taskproc>
+	<target_info>
+		<target failmsg="" fmsg="$N少侠来得正好，老夫正在准备华诞盛典的宴席，还差一份烹饪，不知道少侠可否替我寻来？ :129" name="陈员外" npcname="陈员外" npctype="1" requesttype="1"/>
+	</target_info>
+	<nextproc proctype="0">
+		<np_select_info>
+			<np_select name="寻物" rate="100" taskid="10424002"/>
+		</np_select_info>
+	</nextproc>
+	<drama>
+		<start_drama_id/>
+		<start_drama_info/>
+		<end_drama_id/>
+		<end_drama_info/>
+	</drama>
+	<taskprocext>
+		<ExtraEndInfoType>ExtraEndInfo</ExtraEndInfoType>
+		<tp_finish_item_type/>
+		<tp_item_x/>
+		<tp_item_y/>
+		<tp_item_z/>
+		<tp_finish_del>0</tp_finish_del>
+		<tp_finish_act/>
+		<tp_act_x/>
+		<tp_act_y/>
+		<tp_act_z/>
+		<tp_item_eff/>
+		<tp_item_eff_x/>
+		<tp_item_eff_y/>
+		<tp_item_eff_z/>
+		<tp_act_eff/>
+		<tp_act_eff_x/>
+		<tp_act_eff_y/>
+		<tp_act_eff_z/>
+	</taskprocext>
+</config>
